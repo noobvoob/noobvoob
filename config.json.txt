@@ -1,0 +1,5 @@
+{
+	"ip":"Kanishkx28yANb.aternos.me",
+	"port": "17237",
+	"name": "Noobvoob"
+}
